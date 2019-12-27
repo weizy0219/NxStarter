@@ -1,4 +1,4 @@
-NX是一个全栈工程集成框架，提供了一套完整的解决方案和工具来实现全栈项目开发。Nx使用了诸如Cypress,Jest,Prettier,TypeScript等现代化工具来实现包括Angular、React和Node、Nest、Express等各种框架的集成开发，并且提供了深度图、依赖检测等功能，使小型团队也能使用像Google,Facebook和微软一样的开发工具和流程。本文基于Nx官方入门案例，以实现对Nx的使用流程和特性的熟悉和入门。
+NX是一个全栈工程集成框架，提供了一套完整的解决方案和工具来实现全栈项目开发。Nx使用了诸如Cypress,Jest,Prettier,TypeScript等现代化工具来实现包括Angular、React和Node、Nest、Express等各种框架的集成开发，并且提供了深度图、依赖检测等功能，使小型团队也能使用像Google,Facebook和微软一样的开发工具和流程。本文基于Nx官方入门案例，以实现对Nx的使用流程和特性的熟悉和入门。关于NX生成项目文档见[README_NX](./README_NX.md).
 
 ### 1. 创建一个新的nx工程
 使用下面任意一种即可。注意国内安装cypress会很慢，最好在.npmrc文件中修改路径。
